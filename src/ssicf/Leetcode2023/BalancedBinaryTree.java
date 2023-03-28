@@ -1,6 +1,5 @@
 package ssicf.Leetcode2023;
 
-import java.util.List;
 import ssicf.commons.TreeNode;
 
 public class BalancedBinaryTree {
